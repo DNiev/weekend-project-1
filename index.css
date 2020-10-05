@@ -1,0 +1,48 @@
+#pageContainer{
+    height: 100vh;
+    background-color: #3ac0e7;
+}
+#topnav{
+    color:white;
+}
+.darkBlueText{
+    color:#188bae;
+}
+#descriptionText{
+    color:white;
+}
+.getItNow{
+    background-color: #017499;
+    border-style: none;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    height: 70px;
+    width: 250px;
+}
+.stat-number{
+    color: white;
+}
+footer{
+    color: grey;
+    background-color:#0A232D;
+}
+.topbar{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.bottombar{
+    display: flex;
+    justify-content: flex-end;
+}
+#herocontainer{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.feature{
+    color:#3ac0e7;
+}
+.features{
+    color:#3ac0e7
+}
